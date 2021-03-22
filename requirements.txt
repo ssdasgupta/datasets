@@ -1,0 +1,25 @@
+cachetools==3.1.1
+certifi==2019.9.11
+chardet==3.0.4
+filelock==3.0.12
+gdown==3.8.3
+google-api-python-client==1.7.11
+google-auth==1.6.3
+google-auth-httplib2==0.0.3
+httplib2==0.14.0
+idna==2.8
+-e git+https://github.com/dhruvdcoder/nlp-utils.git@ea218084cda7ee409f09204ff9aff13bbe85c9de#egg=nlp_utils
+numpy==1.17.2
+oauth2client==4.1.3
+pyasn1==0.4.7
+pyasn1-modules==0.2.6
+PyDrive==1.3.1
+PyYAML==5.1.2
+requests==2.22.0
+rsa==4.0
+six==1.12.0
+torch==1.2.0
+torchtext==0.4.0
+tqdm==4.36.1
+uritemplate==3.0.0
+urllib3==1.25.6
